@@ -92,7 +92,3 @@ const shoppingCart= [{
  const totalPrice=shoppingCart.reduce((acc,item)=>acc+item.price,0)
 
  console.log(totalPrice);
- 
-
-
- 
